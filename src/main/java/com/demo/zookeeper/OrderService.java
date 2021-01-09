@@ -1,4 +1,4 @@
-package cn.lichao.zookeeper;
+package com.demo.zookeeper;
 
 public class OrderService implements  Runnable {
 

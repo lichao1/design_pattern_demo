@@ -3,7 +3,6 @@ package cn.lichao.design.proxy.custom;
 import cn.lichao.design.proxy.statics.DBQuery;
 import cn.lichao.design.proxy.statics.IDBQuery;
 
-import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 public class LCQueryHandler implements LCInvocationHandler {
